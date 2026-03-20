@@ -1,0 +1,27 @@
+# X Viral Examples (March 2026)
+# NOTE: Keep this file evidence-based. If exact metrics are unavailable, mark as estimate.
+
+Example 1
+- Format: Single post, contrarian claim + concrete metric
+- Metrics: [capture with API/screenshot]
+- Why it worked: strong hook + debate prompt + author replied to early comments
+
+Example 2
+- Format: 6-post thread with numbered lessons
+- Metrics: [capture]
+- Why it worked: clear promise in tweet 1, high save/reply utility
+
+Example 3
+- Format: Screenshot-backed build-in-public post
+- Metrics: [capture]
+- Why it worked: proof artifact + concrete numbers + emotional framing
+
+Example 4
+- Format: Quote-post reaction to a timely industry event
+- Metrics: [capture]
+- Why it worked: piggybacked active conversation graph + original angle
+
+Example 5
+- Format: Short native video with subtitles
+- Metrics: [capture]
+- Why it worked: watch-time retention + shareable one-idea payload

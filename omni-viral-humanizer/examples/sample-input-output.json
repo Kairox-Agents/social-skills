@@ -1,0 +1,64 @@
+{
+  "input": {
+    "platform_request": "all three",
+    "topic": "Founder content sounds generic",
+    "audience": "early-stage SaaS founders"
+  },
+  "humanized_base": "Most founders are not losing because they post too little. They're losing because every post sounds interchangeable.",
+  "platform_outputs": {
+    "x": {
+      "variants": [
+        {
+          "type": "single",
+          "text": "Most founders aren't invisible.\n\nThey're interchangeable.\n\nIf your post could've been written by 10 other people in your niche, nobody remembers it.\n\nWhat's one opinion you believe that most founders won't say out loud?"
+        }
+      ],
+      "analysis": {
+        "engagement_score": "8.8/10",
+        "recommended_window": "Tue-Thu 08:30-10:00 local",
+        "signals_hit": ["short-line scanability", "reply-driving CTA", "no main-link penalty"],
+        "media_prompt": "Design a clean 1200x675 quote card with high-contrast typography: 'Interchangeable content is invisible content.'"
+      }
+    },
+    "linkedin": {
+      "variants": [
+        {
+          "type": "text-post",
+          "text": "Most founders don't fail at content because they post too little.\n\nThey fail because their voice is generic.\n\nIf your post could be copy-pasted and attributed to 20 other people, it won't build trust.\n\nThe fix is point-of-view density: one strong opinion, one specific example, one practical takeaway.\n\nWhat's one unpopular truth you've learned building your company?"
+        }
+      ],
+      "analysis": {
+        "engagement_score": "8.5/10",
+        "recommended_window": "Tue-Thu 08:00-11:00 local",
+        "signals_hit": ["dwell-time opener", "comment-oriented close", "value-first structure"],
+        "media_prompt": "Create a 6-slide carousel in 1080x1350: hook, problem, mistake pattern, framework, example, CTA."
+      }
+    },
+    "tiktok": {
+      "variants": [
+        {
+          "type": "short-video-script",
+          "duration_target": "45-75s",
+          "script": [
+            "Your content isn't failing because you're inconsistent.",
+            "It's failing because you sound like everyone else.",
+            "One post should have one opinion, one proof, one practical takeaway.",
+            "Comment the unpopular truth you believe about your industry."
+          ],
+          "caption": "Why founder content flops (and how to fix it). #founder #contentstrategy #startuptips"
+        }
+      ],
+      "analysis": {
+        "engagement_score": "8.6/10",
+        "recommended_window": "Tue-Thu 16:00-20:00 local",
+        "signals_hit": ["3-second hook", "single-idea structure", "comment CTA"],
+        "media_prompt": "Talking-head vertical 9:16, jump cuts every 2-3 seconds, big on-screen text for each beat."
+      }
+    }
+  },
+  "cross_posting_notes": [
+    "Core thesis stayed the same: generic voice kills distribution and memory.",
+    "X is compressed and conversational; LinkedIn is explanatory; TikTok is beat-structured spoken delivery.",
+    "Test variants weekly and keep winners in a reusable hook bank by platform."
+  ]
+}

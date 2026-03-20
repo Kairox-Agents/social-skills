@@ -1,0 +1,27 @@
+# LinkedIn Viral Examples (March 2026)
+# NOTE: Keep claims auditable. Add direct links + snapshot date when available.
+
+Example 1
+- Format: Text post with contrarian opener + mini-case-study
+- Metrics: [capture]
+- Why it worked: high dwell intro + practical takeaway + strong comments
+
+Example 2
+- Format: PDF carousel (8 slides)
+- Metrics: [capture]
+- Why it worked: save-worthy framework + visual scanability
+
+Example 3
+- Format: Founder story post (failure -> lesson)
+- Metrics: [capture]
+- Why it worked: emotional credibility + specific insight + audience fit
+
+Example 4
+- Format: Data-backed industry analysis post
+- Metrics: [capture]
+- Why it worked: authority signal + debate in comments
+
+Example 5
+- Format: Newsletter/article teaser post
+- Metrics: [capture]
+- Why it worked: strong hook in main post + native value before link-out

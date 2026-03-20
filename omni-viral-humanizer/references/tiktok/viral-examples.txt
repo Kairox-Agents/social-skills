@@ -1,0 +1,27 @@
+# TikTok Viral Examples (March 2026)
+# NOTE: Keep examples tied to actual post URLs and date-stamped metrics when available.
+
+Example 1
+- Format: 45-60s founder myth-busting monologue
+- Metrics: [capture]
+- Why it worked: immediate hook + clear payoff + comment prompt
+
+Example 2
+- Format: POV skit tied to a common startup pain
+- Metrics: [capture]
+- Why it worked: high relatability + shareability
+
+Example 3
+- Format: Screen-record tutorial with voiceover
+- Metrics: [capture]
+- Why it worked: search intent alignment + completion-friendly pacing
+
+Example 4
+- Format: Fast listicle (3 mistakes)
+- Metrics: [capture]
+- Why it worked: structured progression + rewatch for recall
+
+Example 5
+- Format: Duet/stitch response to trending business claim
+- Metrics: [capture]
+- Why it worked: existing trend graph + opinionated take + native interaction format

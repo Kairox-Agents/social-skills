@@ -4,10 +4,10 @@
   "description": "Your all-around social media and content Swiss army knife. 9 composable skills + standalone humanizer for X, LinkedIn, Reddit, Instagram, TikTok, and YouTube. Built for solo creators, SMBs, and early-stage founders.",
   "author": "Philip Bankier",
   "license": "MIT",
-  "homepage": "https://github.com/philipbankier/social-skills",
+  "homepage": "https://github.com/Kairox-Agents/social-skills",
   "repository": {
     "type": "git",
-    "url": "https://github.com/philipbankier/social-skills.git"
+    "url": "https://github.com/Kairox-Agents/social-skills.git"
   },
   "tags": [
     "social-media",

@@ -1,30 +1,27 @@
-# X / Twitter — Algorithm & Strategy Sources
+# X/Twitter Algorithm Sources
 
-> Last updated: March 2026. Evidence quality ratings: 🟢 High (official/code) | 🟡 Medium (credible analysis) | 🔴 Low (anecdotal)
+| Claim | Source | Evidence Quality | Date |
+|-------|--------|-----------------|------|
+| Reply engaged by author = +75 (150x like) | X open-source code (GitHub, xAI Jan 2026 release) | 🟢 High (source code) | Jan 2026 |
+| Reply = +13.5, Retweet = +1.0, Like = +0.5 | X open-source code (both 2023 + Jan 2026 releases) | 🟢 High (source code) | Jan 2026 |
+| Bookmark = +10.0, Dwell (2+ min) = +10.0 | X open-source code | 🟢 High (source code) | Jan 2026 |
+| Profile click + engagement = +12.0 | X open-source code | 🟢 High (source code) | Jan 2026 |
+| Three-stage pipeline: Candidate Sourcing → Ranking → Filtering | X open-source code + Typefully analysis | 🟢 High (source code) | Jan 2026 |
+| SimClusters: 145,000 topic clusters, ~85% of out-of-network | X open-source code | 🟢 High (source code) | Jan 2026 |
+| Grok replaced legacy recommendation system | Elon Musk announcement (Oct 2025), confirmed in xAI Jan 2026 release | 🟢 High (official) | Jan 2026 |
+| Grok sentiment analysis: positive tone → wider distribution | xAI release notes + PostEverywhere analysis | 🟡 Medium (official + analysis) | Jan 2026 |
+| Premium ~10x more reach than free accounts | Buffer analysis | 🟡 Medium (credible third-party analysis) | 2025-2026 |
+| 50%+ of free posts see zero engagement | Buffer analysis | 🟡 Medium (credible analysis) | 2025-2026 |
+| External links: 30-50% reach penalty, zero median for free since Mar 2025 | PostEverywhere analysis of open-source code + data | 🟡 Medium (credible analysis + code) | Mar 2025 |
+| TweepCred score 0-100, threshold 65 | X open-source code + PostEverywhere analysis | 🟢 High (source code) | Jan 2026 |
+| Text-only outperforms video by 30% on X | PostEverywhere data analysis | 🟡 Medium (credible analysis) | Feb 2026 |
+| 1-2 hashtags +21%, multiple -40% | PostEverywhere analysis | 🟡 Medium (credible analysis) | Feb 2026 |
+| Following tab Grok-sorted since Nov 2025 | PostEverywhere + community reports | 🟡 Medium (credible analysis) | Nov 2025 |
+| Post 2-3 quality times/day optimal | PostEverywhere FAQ, community consensus | 🟡 Medium (credible analysis) | 2026 |
 
-## Algorithm Signals
-
-| Claim | Source | Quality | Date |
-|-------|--------|---------|------|
-| Reply = 27x weight of a like | Twitter open-source algorithm release (GitHub) | 🟢 | Mar 2023, reconfirmed Jan 2026 Grok analysis |
-| Reply from author back to replier = 150x | Twitter algorithm source code + community analysis | 🟢 | Mar 2023 |
-| Bookmark = 10x weight of a like | Twitter algorithm source code | 🟢 | Mar 2023 |
-| Retweet = 20x weight of a like | Twitter algorithm source code | 🟢 | Mar 2023 |
-| ~50% engagement decay per 6 hours | Community analysis of algorithm source | 🟡 | 2023-2024, directionally consistent in 2026 |
-| External links severely suppressed in reach | Multiple creator experiments, Twitter engineering blog hints | 🟡 | 2024-2026 |
-| Hashtags mostly irrelevant (1-2 max) | Creator experiments, algorithm code shows low weight | 🟡 | 2024-2026 |
-| Premium accounts 4-8x baseline reach | Creator reports, X Premium documentation | 🟡 | 2025-2026 |
-| First 30-60 min velocity = strongest signal | Algorithm code (time-decay function) + creator experiments | 🟢 | 2023, consistent through 2026 |
-
-## Strategy & Best Practices
-
-| Claim | Source | Quality |
-|-------|--------|---------|
-| Threads outperform singles for bookmark rate | Creator experiments (multiple accounts, N>100 posts) | 🟡 |
-| Self-reply with link preserves main tweet reach | Widely tested by creator community | 🟡 |
-| Video content gets separate algorithm treatment | X engineering blog, creator observations | 🟡 |
-
-## Key References
-- Twitter Algorithm GitHub: https://github.com/twitter/the-algorithm (Mar 2023 release)
-- X Creator documentation: https://help.twitter.com/en/using-x
-- Grok-powered algorithm analysis (Jan 2026): community synthesis, not official X publication
+## Primary Sources
+- X open-source algorithm: `github.com/xai-org/x-algorithm` (Jan 2026 release)
+- Original open-source: `github.com/twitter/the-algorithm` (Apr 2023)
+- PostEverywhere analysis: https://posteverywhere.ai/blog/how-the-x-twitter-algorithm-works (Feb 2, 2026, updated Mar 22, 2026)
+- Typefully analysis: https://typefully.com/blog/x-algorithm-open-source (Jan 20, 2026)
+- Buffer data: https://buffer.com/resources/twitter-marketing/

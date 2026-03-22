@@ -1,0 +1,74 @@
+name: social-skills
+version: 0.1.0
+description: >
+  Social media content Swiss army knife. 9 composable skills + standalone humanizer
+  for X, LinkedIn, Reddit, Instagram, TikTok, and YouTube.
+  Built for solo creators, SMBs, and early-stage founders.
+author: Philip Bankier
+license: MIT
+homepage: https://github.com/philipbankier/social-skills
+
+skills:
+  - name: social-context
+    path: skills/social-context
+    description: Brand/audience/voice configuration. Hard-gated foundation for all other skills.
+
+  - name: social-copywriting
+    path: skills/social-copywriting
+    description: Write platform-native social posts with hook optimization and AI-tell removal.
+
+  - name: content-review
+    path: skills/content-review
+    description: Two-stage review — platform compliance then quality/voice consistency.
+
+  - name: thread-writing
+    path: skills/thread-writing
+    description: Multi-part threads (X) and carousel outlines (LinkedIn/Instagram).
+
+  - name: content-ideation
+    path: skills/content-ideation
+    description: Generate content ideas using 15 repeatable frameworks.
+
+  - name: content-repurposing
+    path: skills/content-repurposing
+    description: Adapt content from one source format to multiple platform-native outputs.
+
+  - name: content-calendar
+    path: skills/content-calendar
+    description: Generate date-stamped content calendars with pillar rotation.
+
+  - name: posting-strategy
+    path: skills/posting-strategy
+    description: Platform timing, frequency optimization, and cross-posting rules.
+
+  - name: account-analysis
+    path: skills/account-analysis
+    description: Analyze accounts for voice DNA, content patterns, and engagement insights.
+
+  - name: omni-viral-humanizer
+    path: omni-viral-humanizer
+    description: >
+      Zero-setup humanizer + optimizer. Drop in a draft, get platform-native
+      outputs with scoring, A/B test suggestions, and humanization reports.
+
+tags:
+  - social-media
+  - content-marketing
+  - copywriting
+  - twitter
+  - linkedin
+  - reddit
+  - instagram
+  - tiktok
+  - youtube
+  - humanization
+  - viral
+  - founder
+
+platforms:
+  - x-twitter
+  - linkedin
+  - reddit
+  - instagram
+  - tiktok
+  - youtube

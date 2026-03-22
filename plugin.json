@@ -1,0 +1,88 @@
+{
+  "name": "social-skills",
+  "version": "0.1.0",
+  "description": "Your all-around social media and content Swiss army knife. 9 composable skills + standalone humanizer for X, LinkedIn, Reddit, Instagram, TikTok, and YouTube. Built for solo creators, SMBs, and early-stage founders.",
+  "author": "Philip Bankier",
+  "license": "MIT",
+  "homepage": "https://github.com/philipbankier/social-skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philipbankier/social-skills.git"
+  },
+  "tags": [
+    "social-media",
+    "content-marketing",
+    "copywriting",
+    "twitter",
+    "linkedin",
+    "reddit",
+    "instagram",
+    "tiktok",
+    "youtube",
+    "content-strategy",
+    "humanization",
+    "viral",
+    "founder",
+    "startup"
+  ],
+  "skills": [
+    {
+      "name": "social-context",
+      "path": "skills/social-context",
+      "description": "Brand/audience/voice configuration foundation"
+    },
+    {
+      "name": "social-copywriting",
+      "path": "skills/social-copywriting",
+      "description": "Platform-native social post writing"
+    },
+    {
+      "name": "content-review",
+      "path": "skills/content-review",
+      "description": "Two-stage content quality review"
+    },
+    {
+      "name": "thread-writing",
+      "path": "skills/thread-writing",
+      "description": "Multi-part thread and carousel creation"
+    },
+    {
+      "name": "content-ideation",
+      "path": "skills/content-ideation",
+      "description": "Content idea generation with 15 frameworks"
+    },
+    {
+      "name": "content-repurposing",
+      "path": "skills/content-repurposing",
+      "description": "Cross-platform content adaptation"
+    },
+    {
+      "name": "content-calendar",
+      "path": "skills/content-calendar",
+      "description": "Content calendar generation"
+    },
+    {
+      "name": "posting-strategy",
+      "path": "skills/posting-strategy",
+      "description": "Platform timing and cross-posting strategy"
+    },
+    {
+      "name": "account-analysis",
+      "path": "skills/account-analysis",
+      "description": "Account voice and engagement analysis"
+    },
+    {
+      "name": "omni-viral-humanizer",
+      "path": "omni-viral-humanizer",
+      "description": "Zero-setup content humanizer + optimizer for 6 platforms"
+    }
+  ],
+  "scripts": {
+    "test": "python3 scripts/test-all.py",
+    "validate": "python3 scripts/validate-skills.py"
+  },
+  "requirements": {
+    "python": ">=3.8",
+    "dependencies": "stdlib-only"
+  }
+}
